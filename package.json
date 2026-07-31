@@ -1,0 +1,21 @@
+{
+  "name": "ai-agent",
+  "version": "1.0.0",
+  "description": "repository to test AI agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freshenup4958/testagent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Freshenup4958/testagent/issues"
+  },
+  "homepage": "https://github.com/Freshenup4958/testagent#readme"
+}
