@@ -1,0 +1,1 @@
+console.log("AI agent project initialized");
